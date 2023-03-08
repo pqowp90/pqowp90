@@ -4,7 +4,7 @@
 
 ✨Introduce✨
 =
-My name is Kim Se-hyeon aspiring client programmer. 
+My name is Kim Hyoung Joo aspiring client programmer. 
  
 
 🥰Career🥰
