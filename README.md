@@ -44,10 +44,10 @@ My name is Kim Se-hyeon aspiring client programmer.
 ------
 Github Information
 -----
-![](https://github-readme-stats.vercel.app/api?username=sehyeon1104&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=pqowp90&show_icons=true&theme=tokyonight)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=sehyeon1104&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=pqowp90&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![opgc](https://api.opgc.me/githubs/users/sehyeon1104/tag/?theme=dracula)
+![opgc](https://api.opgc.me/githubs/users/pqowp90/tag/?theme=dracula)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20For%20Visiting!!&fontSize=70&animation=fadeIn&fontAlignY=70&fontColor=FFFFFF)
